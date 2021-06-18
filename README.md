@@ -2,6 +2,9 @@
 
 Welcome to my first Rock Paper Scissors Lizard Spock game. I saw many seasons of The Big Bang Theory, <br> but i obviously missed the one where Sheldon invented this version of the classic. <br>
 Site deployed here : https://dennisvn.github.io/rock-paper-scissors/
+<br>
+# UI Screenshot
+![Screenshot](https://github.com/DennisVN/rock-paper-scissors/blob/master/images/screenshot.png)
 
 ## How it works
 - Click an emoji to challenge the AI.
