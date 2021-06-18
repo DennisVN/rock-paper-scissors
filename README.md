@@ -39,8 +39,15 @@ Site deployed here : https://dennisvn.github.io/rock-paper-scissors/
     - Automated AI RNG with the variable ComChoice=[]
         - RNG will generate a number from 1-5. each of them beeing an emoji/word.
     - Score function has score_div declared to update the InnerHTML of the "scoreboard". (very basic scoreboard in this project.)
-    - if else statements use : 
-        - if () LUNCHBREAK BRB WIP
+    - If else statements use : 
+        - if (YOURCHOICE defeats AICHOICE) return win(YOURCHOISE)
+            - you score a point if one of the declared operands returns true.
+        - else if (YOURCHOICE draws AICHOICE) return draw(YOURCHOICE)
+            - noone scores, both sides picked the same word/emoji
+        - else (YOURCHOICE looses vs AICHOICE)
+            - you lost, AI scores a point . Try again ;) 
+    - Functions win(bn), draw(bn), lose(bn) wil run, depending on result of both choices. The element who will display the set message, and buttons will react accordingly. Have a peep to understand the further details ;)
+
 ### WIP
 - Add mediaQueries for full responsiveness 
 - Add scoreboard
