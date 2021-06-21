@@ -48,6 +48,11 @@ PLAY FOR FREE WITHOUT DOWNLOAD HERE : https://dennisvn.github.io/rock-paper-scis
             - you lost, AI scores a point . Try again ;) 
     - Functions win(bn), draw(bn), lose(bn) wil run, depending on result of both choices. The element who will display the set message, and buttons will react accordingly. Have a peep to understand the further details ;)
 
+## Final Disclaimer
+
+This repo has no commit history, as this happened in a removed repository. For exercise completion with the correct name i've re-uploaded my final work here. <br>
+Don't hesitate to reach out if you have any questions  !
+<br>
 ### WIP
 - Add mediaQueries for full responsiveness 
 - Add scoreboard
